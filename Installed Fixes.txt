@@ -1,0 +1,22 @@
+Vigilant Framerate -> https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
+Widescreen Fix -> https://thirteenag.github.io/wfp#gtavc
+Silent Patch -> https://cookieplmonster.github.io/mods/gta-vc/
+Ginput -> https://cookieplmonster.github.io/mods/gta-vc/
+Game Downgrade -> Downgraded to 1.0
+Installed CLEO -> https://re.cleo.li, https://github.com/cleolibrary/III.VC.CLEO/releases/tag/2.0.0.6
+Open Limit Adjuster -> https://github.com/ThirteenAG/III.VC.SA.LimitAdjuster/releases
+Free Cam Fix -> https://github.com/gennariarmando/classic-axis
+Rosenberg Busted Speech Fix -> https://www.gtagarage.com/mods/show.php?id=22234
+Ped Speech Fix -> https://gtaforums.com/topic/817075-ped-speech-patch-gta-vc/
+Radio Zoom
+HD Radar -> https://www.mixmods.com.br/2020/10/vc-mapa-do-radar-em-hd/
+HD Radar Icons
+HD Menu
+HD Cursor
+HD Weapon Icon -> https://gtaforums.com/topic/878353-gta-vc-styled-icons/page/2/#comments
+HD Loading Screens -> https://gtaforums.com/topic/924594-yet-another-interface-remaster/
+HD Peds -> https://www.gtainside.com/en/vicecity/mods/147898-esrgan-characters-textures-upscaled/
+XBOX Vehicles -> https://gtaforums.com/topic/942192-vc-fixed-xbox-vehicles/
+SKYgfx -> https://gtaforums.com/topic/750681-skygfx-ps2-xbox-and-mobile-graphics-for-pc/
+ViceMips -> https://www.mixmods.com.br/2016/11/vc-vicemips-mip-mapping-para-gta-vice-city/
+Radar Zoom -> https://gtaforums.com/topic/467104-vice-city-radar-zoom/
